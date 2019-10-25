@@ -1,0 +1,55 @@
+body {
+    font-family: Georgia, Helvetica, sans-serif;
+    background: #666666;
+    color: #ffffff;
+}
+
+#content {
+    width: 600px;
+    margin: 10px auto;
+    padding: 20px 80px;
+    background: #c2dde6;
+    border: 1px solid #000000;
+    border-radius: 30px;
+}
+
+h1 {
+	text-align: center;
+    color: #3d3d3f;
+    margin: 25px 50px
+}
+
+p {
+	color: #f9f8fd;
+	font-weight: bold;
+	text-align: center;
+    Font-family: "Georgia", Times, Serif;
+    letter-spacing: 1.25px;
+}
+
+label {
+    display: block;
+    width: 20em;
+    text-align: right;
+    padding-right: 10px;
+    float: left;
+    letter-spacing: 1.25px;
+}
+
+input {
+    display: block;
+    float: left;
+    width: 100px;
+    border: 1px solid #3d3d3f;
+    border-radius: 10px;
+    text-align: center;
+}
+
+#futureValue {
+    color: #3d3d3f;
+    border: 1px solid #3d3d3f;
+}
+
+br {
+    clear: left;
+}
